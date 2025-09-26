@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` draft for your project, styled as a professional open-source project but with the right credit to Tufts’ JumboCast.
-
----
-
 ```markdown
 # 📊 StatBot  
 *A collaborative project with Tufts' Student Broadcasting Club, JumboCast*  
